@@ -1,0 +1,4 @@
+class Gerente : Funcionario() {
+
+
+}
